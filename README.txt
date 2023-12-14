@@ -16,8 +16,12 @@
 
 TYPE a_help from 1 to 5 in console to check commands
 
-
-
+ADD-ONS IN AUTOEXEC BY DEFAULT:
+ion - katana skin
+agency - global font for the game: Agency FB
+cyan - cyan blood
+loud - louder special infected spawn sounds
+slnc - silencer sound for every weapon
 
 HOW TO INSTALL ADD-ONS IN VERSUS (LOADS WITH THE GAME)
 
