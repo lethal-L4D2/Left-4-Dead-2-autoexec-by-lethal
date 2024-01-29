@@ -1,0 +1,51 @@
+MOST OF AUTOEXEC FEATURES:
+
+- Pre-Saved EU North Servers (when you make lobby it will give you server in 1 second always with best ping. (I also have lists for US and Spain servers, hit me up if you want to change it)
+
+- Haymaking, jump rock, fast-swing, bhop scripts (metank in console/medead to turn it off/bind space +a_jump|mouse5 - haymake jump/alt - haymake/r - jump rock)
+
+- Shortcuts for any gamemode in solo (with pre-written configs for the best experience)(vs1 - versus, vss - versus survival, solo - survival, sr - speedrun)
+
+- Fun and training gamemodes by me (made with in-game commands)(fun in console/trainme in console)
+
+- Dissappearing viewmodel (viewmodel.cfg)(bind key viewmodel)
+
+- Bind to cancel any annoying sounds (tank music, alarms, ambient noises)(bind key snd_restart)
+
+- Custom glows, font and skins (glows.cfg)
+
+- Config for best fps and hitboxes
+
+- Secret command chain to crash servers (works 50/50)(bind key +voicerecord + bind key +fpsdrop)
+
+- Shorter commonly used commands (like dc - disconnect, solo - survival singleplayer, coach/ro/nick/ellis - fast changing survivor)
+
+- Script for third person, accessed by "tps" in console (bind 6 tps)
+
+- fakeping script (bind key fakeping)	
+
+- Ability to change crouch and walking from holding to toggle (bind key t_crouch/bind key t_speed)
+
+- Script to spam changing names in chat so people think you cheat (names.cfg/bind o setinfo_name_bill)
+
+- Script to spam flashlight incredibly fast (flash.cfg/bind key t_flush)
+
+- Configed for external crosshair
+
+- Better enemy sound and louder spawn cues 
+
+- Script for ceiling hunter (ceiljump in console/offceiljump to turn it off)
+
+- Lerping script (bind key t_lerp in console)
+ 
+- Ability to control volume with scroll wheel (vol_ctrl in console/vol_def to turn it off)
+
+- Vocalizer with pre-binded best-working voice lines (voc_help in console to see key mappings)
+
+- Command to delete literally every infected near you (reset in console)
+
+- fps, ping and other performance info when checking score (bind tab +skor)
+
+- Callouts for team in team chat (calls in console)
+
+- Command chain to fix any visual glitch in real-time (bug/unbug in console)[even restarting the game don't fix every bug, but this command should]
